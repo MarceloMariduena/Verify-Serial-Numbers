@@ -1,4 +1,4 @@
-// Author: github.com/MarceloMariduena
+// Author: https://github.com/MarceloMariduena
 
 import java.util.Scanner;
 
